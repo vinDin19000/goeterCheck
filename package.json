@@ -1,0 +1,28 @@
+{
+  "name": "goeter-check",
+  "version": "1.0.0",
+  "description": "A simple tool to check Markdown parsing using the goeter package.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinDin19000/goeterCheck.git"
+  },
+  "keywords": [
+    "markdown",
+    "parser",
+    "testing"
+  ],
+  "author": "vinDin19000",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinDin19000/goeterCheck/issues"
+  },
+  "homepage": "https://github.com/vinDin19000/goeterCheck#readme",
+  "dependencies": {
+    "goeter": "^1.0.0"
+  },
+  "devDependencies": {}
+}
